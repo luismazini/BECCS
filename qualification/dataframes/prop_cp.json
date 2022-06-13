@@ -1,0 +1,117 @@
+{
+    "water": {
+        "chem_x": 49.95762483244768,
+        "molar_mass" :0.01801528,
+        "enthalpy_f": -241.8
+    },  
+    "h": {
+        "chem_x": 49.95762483244768,
+        "molar_mass" :0.001007947,
+        "enthalpy_f": -241.8
+    },  
+    "sucrose": {
+        "chem_x": 17551.26671311324,
+        "molar_mass": 0.34229648,
+        "enthalpy_f": -2221.2
+    },
+    "d-fructose": {
+        "chem_x": 15504.196101992427,
+        "molar_mass": 0.18016,
+        "enthalpy_f": 0
+    },
+    "cellulose": {
+        "chem_x": 20997,
+        "molar_mass": 0.3423,
+        "enthalpy_f": -983
+    },
+    "hemicellulose": {
+        "chem_x": 21395,
+        "molar_mass": 0.1621406,
+        "enthalpy_f": -983
+    },
+    "lignin": {
+        "chem_x": 28161,
+        "molar_mass": 0.194100167,
+        "enthalpy_f": -712.9
+    },
+    "lime": {
+        "chem_x": 1965.1094986830915,
+        "molar_mass": 0,
+        "enthalpy_f": 0
+    },
+    "sulfuric_acid": {
+        "chem_x": 1666,
+        "molar_mass": 0,
+        "enthalpy_f": 0
+    },
+    "sulfur_dioxide": {
+        "chem_x": 4892,
+        "molar_mass": 0,
+        "enthalpy_f": 0
+    },
+    "air": {
+        "chem_x": 23.821475647201872,
+        "molar_mass": 0.02896546,
+        "enthalpy_f": 0
+    },
+    "n2": {
+        "chem_x": 24.988,
+        "molar_mass": 0.0280134,
+        "enthalpy_f": 0
+    },
+    "oxygen": {
+        "chem_x": 121.8796,
+        "molar_mass": 0.0319988,
+        "enthalpy_f": 0
+    },
+    "o": {
+        "chem_x": 0,
+        "molar_mass": 0.0159994,
+        "enthalpy_f": 0
+    },
+    "co2": {
+        "chem_x": 422.6317,
+        "molar_mass": 0.0440095,
+        "enthalpy_f": -393.474
+    },
+    "c": {
+        "chem_x": 0,
+        "molar_mass": 0.0120107,
+        "enthalpy_f": -393.474
+    },
+    "methane": {
+        "chem_x": 51820.4489,
+        "molar_mass": 0.01604,
+        "enthalpy_f": -74.8
+    },
+    "H2S": {
+        "chem_x": 23826.2911,
+        "molar_mass": 0.03408,
+        "enthalpy_f": 0
+    },
+    "bicarbonate": {
+        "chem_x": 257.1211,
+        "molar_mass": 0.0840071,
+        "enthalpy_f": 0
+    },
+    "sodium_hydroxide": {
+        "chem_x": 1872.6311,
+        "molar_mass": 0.0399972,
+        "enthalpy_f": 0
+    },
+    "sodium_sulfide": {
+        "chem_x": 11806.1606,
+        "molar_mass": 0.078044,
+        "enthalpy_f": 0
+    },
+    "calcium_oxide": {
+        "chem_x": 2269.9715,
+        "molar_mass": 0.05608,
+        "enthalpy_f": 0
+    },
+    "ethanol": {
+        "chem_x": 29453.3259,
+        "molar_mass": 0.0460695,
+        "enthalpy_f": 0
+    }
+}
